@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696447530 source:c:\cpp\perhitungantipekamar\main.cpp
+	<iostream>
+	<string>
+

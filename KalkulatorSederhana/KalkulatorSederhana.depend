@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697524376 source:c:\cpp\kalkulatorsederhana\main.cpp
+	<iostream>
+	<math.h>
+
